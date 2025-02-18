@@ -1,4 +1,8 @@
-# 2Market
+# 2Market Customer Analysis
+
+- Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)
+- Grade 87.78%
+
 
 <img width="1268" alt="2market banner jpg" src="https://github.com/user-attachments/assets/0a014b72-5b7f-47ba-bb49-5ea9b71e6a29" />
 
@@ -9,6 +13,6 @@ This was my first data analytics project, and it was an exciting opportunity to 
 
 I started with Excel for exploratory data analysis (EDA), where I cleaned, organised, and analysed the dataset to identify initial trends. After uncovering some key insights, I imported the data into PostgreSQL and used SQL queries to perform more detailed descriptive analysis, allowing me to examine relationships between different variables. With these insights, I built an interactive Tableau dashboard, which visualised customer spending trends, marketing channel performance, and product sales patterns. The final step was compiling my findings into a technical report, which summarised key takeaways for 2MARKET’s analytical team and decision-makers.
 
-One of the biggest takeaways from this project was learning how to approach data-driven problem-solving systematically. I applied techniques like the Fishbone Method and the Five Whys Approach to break down customer trends and uncover potential reasons behind them. It was also my first hands-on experience working with SQL, which was both challenging and rewarding. Most importantly, this project reinforced my ability to turn raw data into actionable business insights, using visualisation tools like Tableau to make complex information accessible and meaningful for stakeholders.
+One of the biggest takeaways from this project was learning how to approach data driven problem-solving systematically. I applied techniques like the Fishbone Method and the Five Whys Approach to break down customer trends and uncover potential reasons behind them. It was also my first hands-on experience working with SQL, which was both challenging and rewarding. Most importantly, this project reinforced my ability to turn raw data into actionable business insights, using visualisation tools like Tableau to make complex information accessible and meaningful for stakeholders.
 
 
