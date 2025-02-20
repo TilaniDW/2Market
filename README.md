@@ -1,7 +1,7 @@
 # 2Market Customer Analysis
 
 - Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)
-- Grade 88%
+- Grade 89%
 
 ![2MARKET](https://github.com/user-attachments/assets/34d04e12-2c28-4866-8481-efc6590dc801)
 
