@@ -1,10 +1,9 @@
 # 2Market Customer Analysis
 
 - Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)
-- Grade 87.78%
+- Grade 88%
 
-
-<img width="1268" alt="2market banner jpg" src="https://github.com/user-attachments/assets/0a014b72-5b7f-47ba-bb49-5ea9b71e6a29" />
+![2MARKET](https://github.com/user-attachments/assets/34d04e12-2c28-4866-8481-efc6590dc801)
 
 
 ## Business Question: What can 2MARKET learn from their global customers based on their purchasing behaviours?
