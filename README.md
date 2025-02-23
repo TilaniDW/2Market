@@ -5,7 +5,7 @@
 🔖 Grade 89%
 
 
-![2MARKET](https://github.com/user-attachments/assets/34d04e12-2c28-4866-8481-efc6590dc801)
+[![2MARKET](https://github.com/user-attachments/assets/34d04e12-2c28-4866-8481-efc6590dc801)](https://github.com/TilaniDW/2Market/blob/main/2Market_images/2MARKET.png)
 
 
 ## What can *2MARKET* learn from their global customers based on their purchasing behaviours?
