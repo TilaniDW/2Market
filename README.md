@@ -16,3 +16,5 @@ One of the biggest takeaways from this project was learning how to approach data
 
 
 ![Dashboard Preview](2Market_images/2Market_Dashboard.png)
+
+
