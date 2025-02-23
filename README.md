@@ -4,9 +4,7 @@
 
 🔖 Grade 89%
 
-
-[![2MARKET](https://github.com/user-attachments/assets/34d04e12-2c28-4866-8481-efc6590dc801)](https://github.com/TilaniDW/2Market/blob/main/2Market_images/2MARKET.png)
-
+![Banner](2Market_images/2MARKET.png)
 
 ## What can *2MARKET* learn from their global customers based on their purchasing behaviours?
 
@@ -17,4 +15,4 @@ I started with Excel for exploratory data analysis (EDA), where I cleaned, organ
 One of the biggest takeaways from this project was learning how to approach data driven problem-solving systematically. I applied techniques like the Fishbone Method and the Five Whys Approach to break down customer trends and uncover potential reasons behind them. It was also my first hands-on experience working with SQL, which was both challenging and rewarding. Most importantly, this project reinforced my ability to turn raw data into actionable business insights, using visualisation tools like Tableau to make complex information accessible and meaningful for stakeholders.
 
 
-https://github.com/TilaniDW/2Market/blob/main/2Market_images/2Market_Dashboard.png
+![Dashboard Preview](2Market_images/2Market_Dashboard.png)
